@@ -1,0 +1,5 @@
+Credentials cache: API:67ABD7D1-834E-45AD-9808-08E02D495049
+        Principal: aastraeu@KZN.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Jul 20 21:45:56 2020  Jul 21 07:45:23 2020  krbtgt/KZN.21-SCHOOL.RU@KZN.21-SCHOOL.RU
